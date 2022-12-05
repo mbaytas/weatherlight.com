@@ -33,14 +33,16 @@ export default function Home() {
 
           <p>
             Selected projects:{" "}
-            <a
-              href="https://www.designdisciplin.com/"
-              target="_blank"
-              rel="noreferrer"
-              className="anchor"
-            >
-              Design Disciplin
-            </a>
+            <span className="opacity-50">
+              <a
+                href="https://www.designdisciplin.com/"
+                target="_blank"
+                rel="noreferrer"
+                className="anchor"
+              >
+                Design Disciplin
+              </a>
+            </span>
           </p>
 
           <p>
