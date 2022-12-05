@@ -11,7 +11,7 @@ export default function Layout({ children }) {
       transition: {
         duration: 0.6,
         staggerChildren: 0.3,
-        ease: "easeInOut",
+        ease: "easeOut",
       },
     },
   };
