@@ -9,7 +9,7 @@ export default function Home() {
               href="https://www.baytas.net/"
               target="_blank"
               rel="noreferrer"
-              className="anchor hover:opacity-75"
+              className="hover:opacity-50 transition-opacity"
             >
               dr. M.A. Baytaş
             </a>
@@ -33,16 +33,14 @@ export default function Home() {
 
           <p>
             Selected projects:{" "}
-            <span className="opacity-50">
               <a
                 href="https://www.designdisciplin.com/"
                 target="_blank"
                 rel="noreferrer"
-                className="anchor"
+                className="opacity-50 hover:opacity-100 transition-opacity"
               >
                 Design Disciplin
               </a>
-            </span>
           </p>
 
           <p>
