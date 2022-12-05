@@ -5,7 +5,12 @@ export default function Home() {
         <div className="flex flex-col gap-8">
           <p className="">
             WEATHERLIGHT is the studio practice of designer and engineer{" "}
-            <a className="anchor" href="baytas.net/">
+            <a
+              href="https://www.baytas.net/"
+              target="_blank"
+              rel="noreferrer"
+              className="anchor"
+            >
               dr. M.A. Baytaş
             </a>
             .
