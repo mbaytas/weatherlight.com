@@ -8,7 +8,7 @@
     }
 
     a.anchor {
-        @apply font-medium underline opacity-75 hover:opacity-100 transition-opacity;
+        @apply font-medium underline hover:opacity-100 transition-opacity;
     }
 
     .text-r1 {
