@@ -31,6 +31,7 @@ export default function Home() {
             <a
               href="https://www.designdisciplin.com/"
               target="_blank"
+              rel="noreferrer"
               className="anchor"
             >
               Design Disciplin
