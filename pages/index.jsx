@@ -9,7 +9,7 @@ export default function Home() {
               href="https://www.baytas.net/"
               target="_blank"
               rel="noreferrer"
-              className="hover:opacity-50 transition-opacity"
+              className="hover:opacity-50 transition-opacity underline"
             >
               dr. M.A. Baytaş
             </a>
@@ -37,7 +37,7 @@ export default function Home() {
                 href="https://www.designdisciplin.com/"
                 target="_blank"
                 rel="noreferrer"
-                className="opacity-50 hover:opacity-100 transition-opacity"
+                className="opacity-50 hover:opacity-100 transition-opacity underline"
               >
                 Design Disciplin
               </a>
