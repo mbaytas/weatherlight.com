@@ -9,7 +9,7 @@ export default function Home() {
               href="https://www.baytas.net/"
               target="_blank"
               rel="noreferrer"
-              className="anchor"
+              className="anchor hover:opacity-75"
             >
               dr. M.A. Baytaş
             </a>
