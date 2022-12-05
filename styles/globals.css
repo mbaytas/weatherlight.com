@@ -7,10 +7,6 @@
         @apply bg-black text-white underline-offset-1;
     }
 
-    a.anchor {
-        @apply font-medium underline hover:opacity-100 transition-opacity;
-    }
-
     .text-r1 {
         @apply text-sm 
         lg:text-base
