@@ -33,14 +33,14 @@ export default function Home() {
 
           <p>
             Selected projects:{" "}
-              <a
-                href="https://www.designdisciplin.com/"
-                target="_blank"
-                rel="noreferrer"
-                className="opacity-50 hover:opacity-100 transition-opacity underline"
-              >
-                Design Disciplin
-              </a>
+            <a
+              href="https://www.designdisciplin.com/"
+              target="_blank"
+              rel="noreferrer"
+              className="opacity-50 hover:opacity-100 transition-opacity underline"
+            >
+              Design Disciplin
+            </a>
           </p>
 
           <p>
@@ -48,8 +48,8 @@ export default function Home() {
             <span className="opacity-50">
               {" "}
               Atölye, Chalmers University of Technology, Dükkan Productions, KTH
-              Royal Institute of Technology, MindBehind, Qualisys, The Point
-              Labs, Volvo Cars
+              Royal Institute of Technology, MindBehind, The Point Labs, Volvo
+              Cars
             </span>
           </p>
 
