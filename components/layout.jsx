@@ -49,7 +49,7 @@ export default function Layout({ children }) {
       </Head>
 
       <motion.div
-        className="min-h-screen flex flex-col gap-16 lg:gap-32 justify-evenly p-4 lg:p-8"
+        className="min-h-screen flex flex-col gap-32 justify-evenly p-4 lg:p-8"
         variants={outerVariants}
         initial="out"
         animate="in"
