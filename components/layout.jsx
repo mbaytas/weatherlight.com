@@ -60,7 +60,7 @@ export default function Layout({ children }) {
         >
           <p className="opacity-50">
             WEATHERLIGHT <br />
-            c/o dr. M.A. BAYTAŞ <br />
+            c/o dr. M.A. Baytaş <br />
             41318 Göteborg
           </p>
         </motion.header>
