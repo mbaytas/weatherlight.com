@@ -41,7 +41,7 @@ export default function Home() {
             >
               Design Disciplin
             </a>
-            ,{" "}
+            <span className="opacity-50">, </span>
             <a
               href="https://navigator.designdisciplin.com/"
               target="_blank"
