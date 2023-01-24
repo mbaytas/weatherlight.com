@@ -41,7 +41,7 @@ export default function Home() {
             >
               Design Disciplin
             </a>
-            ,
+            ,{" "}
             <a
               href="https://navigator.designdisciplin.com/"
               target="_blank"
