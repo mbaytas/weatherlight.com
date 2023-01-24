@@ -41,6 +41,15 @@ export default function Home() {
             >
               Design Disciplin
             </a>
+            ,
+            <a
+              href="https://navigator.designdisciplin.com/"
+              target="_blank"
+              rel="noreferrer"
+              className="opacity-50 hover:opacity-100 transition-opacity underline"
+            >
+              Design Navigator
+            </a>
           </p>
 
           <p>
