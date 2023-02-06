@@ -17,8 +17,9 @@ export default function Home() {
           </p>
 
           <p className="opacity-50">
-            WEATHERLIGHT builds ventures, products, and media for the contemporary
-            world order defined by purpose, curiosity, innovation, and artful expression.
+            WEATHERLIGHT builds ventures, products, and media for the
+            contemporary world order defined by purpose, curiosity, innovation,
+            and artful expression.
           </p>
         </div>
 
@@ -26,8 +27,8 @@ export default function Home() {
           <p>
             Expertise:{" "}
             <span className="opacity-50">
-              digital product design and engineering, digital branding
-              and content, design and technology learning and education
+              digital product design and engineering, digital brand and content,
+              design and technology learning and education
             </span>
           </p>
 
@@ -56,9 +57,9 @@ export default function Home() {
             Selected clients and collaborators:{" "}
             <span className="opacity-50">
               {" "}
-              Atölye, Chalmers University of Technology, Dükkan Productions, IT-Högskolan, KTH
-              Royal Institute of Technology, MindBehind, The Point Labs, Volvo
-              Cars
+              Atölye, Chalmers University of Technology, Dükkan Productions,
+              IT-Högskolan, KTH Royal Institute of Technology, MindBehind, The
+              Point Labs, Volvo Cars
             </span>
           </p>
 
