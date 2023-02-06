@@ -4,7 +4,7 @@ export default function Home() {
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-24 w-full max-w-md lg:max-w-6xl mx-auto text-r3 font-medium">
         <div className="flex flex-col gap-8">
           <p className="">
-            WEATHERLIGHT is the studio practice of designer and engineer{" "}
+            WEATHERLIGHT is the studio of{" "}
             <a
               href="https://www.baytas.net/"
               target="_blank"
@@ -17,8 +17,8 @@ export default function Home() {
           </p>
 
           <p className="opacity-50">
-            WEATHERLIGHT builds digital products and media to realize a new
-            world order defined by purpose, curiosity, and artful expression.
+            WEATHERLIGHT builds ventures, products, and media for the contemporary
+            world order defined by purpose, curiosity, innovation, and artful expression.
           </p>
         </div>
 
@@ -26,8 +26,8 @@ export default function Home() {
           <p>
             Expertise:{" "}
             <span className="opacity-50">
-              digital product design and engineering, digital-first brand
-              identity, design learning and education.
+              digital product design and engineering, digital branding
+              and content, design and technology learning and education
             </span>
           </p>
 
@@ -56,7 +56,7 @@ export default function Home() {
             Selected clients and collaborators:{" "}
             <span className="opacity-50">
               {" "}
-              Atölye, Chalmers University of Technology, Dükkan Productions, KTH
+              Atölye, Chalmers University of Technology, Dükkan Productions, IT-Högskolan, KTH
               Royal Institute of Technology, MindBehind, The Point Labs, Volvo
               Cars
             </span>
