@@ -51,6 +51,15 @@ export default function Home() {
             >
               Design Navigator
             </a>
+            <span className="opacity-50">, </span>
+            <a
+              href="https://www.vv.ventures/"
+              target="_blank"
+              rel="noreferrer"
+              className="opacity-50 hover:opacity-100 transition-opacity underline"
+            >
+              VV.Ventures
+            </a>
           </p>
 
           <p>
