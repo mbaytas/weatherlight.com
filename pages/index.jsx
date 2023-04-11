@@ -28,7 +28,7 @@ export default function Home() {
             Expertise:{" "}
             <span className="opacity-50">
               digital product design and engineering, digital brand and content,
-              design and technology learning and education
+              design and technology education
             </span>
           </p>
 
