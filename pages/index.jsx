@@ -33,7 +33,7 @@ export default function Home() {
           </p>
 
           <p>
-            Selected projects:{" "}
+            Ventures:{" "}
             <a
               href="https://www.designdisciplin.com/"
               target="_blank"
@@ -41,6 +41,36 @@ export default function Home() {
               className="opacity-50 hover:opacity-100 transition-opacity underline"
             >
               Design Disciplin
+            </a>
+            <span className="opacity-50">, </span>
+            <a
+              href="https://www.rektangle.design/"
+              target="_blank"
+              rel="noreferrer"
+              className="opacity-50 hover:opacity-100 transition-opacity underline"
+            >
+              REKTANGLE
+            </a>
+          </p>
+
+          <p>
+            Experiments:{" "}
+            <a
+              href="https://aidesignfiction.com/"
+              target="_blank"
+              rel="noreferrer"
+              className="opacity-50 hover:opacity-100 transition-opacity underline"
+            >
+              AI Design Fiction
+            </a>
+            <span className="opacity-50">, </span>
+            <a
+              href="https://www.citationsnft.com/"
+              target="_blank"
+              rel="noreferrer"
+              className="opacity-50 hover:opacity-100 transition-opacity underline"
+            >
+              Citations Collection
             </a>
             <span className="opacity-50">, </span>
             <a
@@ -67,8 +97,8 @@ export default function Home() {
             <span className="opacity-50">
               {" "}
               Atölye, Chalmers University of Technology, Dükkan Productions,
-              IT-Högskolan, KTH Royal Institute of Technology, MindBehind, The
-              Point Labs, Volvo Cars
+              Hyper Island, IT-Högskolan, KTH Royal Institute of Technology,
+              MindBehind, The Point Labs, Volvo Cars
             </span>
           </p>
 
