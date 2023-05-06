@@ -19,9 +19,8 @@ export default function Home() {
           </p>
 
           <p className="opacity-50">
-            WEATHERLIGHT builds products, services, and media that use and
-            promote design for a world defined by curiosity, innovation, and
-            artful expression.
+            WEATHERLIGHT builds design-focused products, services, and media for
+            a world defined by curiosity, innovation, and artful expression.
           </p>
         </div>
 
