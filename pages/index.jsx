@@ -4,22 +4,24 @@ export default function Home() {
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-24 w-full max-w-md lg:max-w-6xl mx-auto text-r3 font-medium">
         <div className="flex flex-col gap-8">
           <p className="">
-            WEATHERLIGHT is the studio of{" "}
-            <a
-              href="https://www.baytas.net/"
-              target="_blank"
-              rel="noreferrer"
-              className="hover:opacity-50 transition-opacity underline"
-            >
-              dr. M.A. Baytaş
-            </a>
+            WEATHERLIGHT is the venture studio of{" "}
+            <nobr>
+              <a
+                href="https://www.baytas.net/"
+                target="_blank"
+                rel="noreferrer"
+                className="hover:opacity-50 transition-opacity underline"
+              >
+                Dr. Mehmet Aydın Baytaş
+              </a>
+            </nobr>
             .
           </p>
 
           <p className="opacity-50">
-            WEATHERLIGHT builds ventures, products, and media for the
-            contemporary world order defined by purpose, curiosity, innovation,
-            and artful expression.
+            WEATHERLIGHT builds products, services, and media that use and
+            promote design for a world defined by curiosity, innovation, and
+            artful expression.
           </p>
         </div>
 
@@ -28,7 +30,7 @@ export default function Home() {
             Expertise:{" "}
             <span className="opacity-50">
               digital product design and engineering, digital brand and content,
-              design and technology education
+              design education
             </span>
           </p>
 
@@ -49,7 +51,7 @@ export default function Home() {
               rel="noreferrer"
               className="opacity-50 hover:opacity-100 transition-opacity underline"
             >
-              REKTANGLE
+              Rektangle
             </a>
           </p>
 
