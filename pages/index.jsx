@@ -4,7 +4,7 @@ export default function Home() {
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-24 w-full max-w-md lg:max-w-6xl mx-auto text-r3 font-medium">
         <div className="flex flex-col gap-8">
           <p className="">
-            WEATHERLIGHT is the venture studio of{" "}
+            WEATHERLIGHT is the design-focused venture studio of{" "}
             <nobr>
               <a
                 href="https://www.baytas.net/"
@@ -19,8 +19,7 @@ export default function Home() {
           </p>
 
           <p className="opacity-50">
-            WEATHERLIGHT builds design-focused products, services, and media for
-            a world defined by curiosity, innovation, and artful expression.
+            WEATHERLIGHT is a platform to practice and promote great design.
           </p>
         </div>
 
@@ -104,7 +103,7 @@ export default function Home() {
           </p>
 
           <p>
-            Contact: <span className="opacity-50">firstcontact@...</span>
+            Contact: <span className="opacity-50">firstcontact@weatherlight.com</span>
           </p>
         </div>
       </div>
