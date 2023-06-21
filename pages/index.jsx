@@ -19,7 +19,8 @@ export default function Home() {
           </p>
 
           <p className="opacity-50">
-            WEATHERLIGHT is a platform to practice and promote great design.
+            WEATHERLIGHT is a platform to practice, promote, and contribute to
+            design.
           </p>
         </div>
 
@@ -103,7 +104,8 @@ export default function Home() {
           </p>
 
           <p>
-            Contact: <span className="opacity-50">firstcontact@weatherlight.com</span>
+            Contact:{" "}
+            <span className="opacity-50">firstcontact@weatherlight.com</span>
           </p>
         </div>
       </div>
