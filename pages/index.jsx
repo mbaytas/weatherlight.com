@@ -94,7 +94,7 @@ export default function Home() {
           </p>
 
           <p>
-            Selected clients and collaborators:{" "}
+            Select clients and collaborators:{" "}
             <span className="opacity-50">
               {" "}
               Atölye, Chalmers University of Technology, Dükkan Productions,
