@@ -104,6 +104,14 @@ export default function Home() {
           </p>
 
           <p>
+            Services:{" "}
+            <span className="opacity-50">
+              {" "}
+              brand design, digital product design and engineering, web design and development, design leadership, design education
+            </span>
+          </p>
+
+          <p>
             Contact:{" "}
             <span className="opacity-50">firstcontact@weatherlight.com</span>
           </p>
