@@ -14,10 +14,12 @@ export default function Home() {
               >
                 dr. Mehmet Aydın Baytaş
               </a>
-            </nobr>{" "}
-            <span className="opacity-50">
-              — a platform to practice, promote, and contribute to design.
-            </span>
+              .
+            </nobr>
+          </p>
+          <p className="opacity-50">
+            A platform to practice, promote, and contribute to
+            design.
           </p>
         </div>
 
