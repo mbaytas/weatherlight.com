@@ -16,11 +16,9 @@ export default function Home() {
               </a>
             </nobr>
             .
-          </p>
-
-          <p className="opacity-50">
-            WEATHERLIGHT is a platform to practice, promote, and contribute to
-            design.
+            <span className="opacity-50">
+              A platform to practice, promote, and contribute to design.
+            </span>
           </p>
         </div>
 
