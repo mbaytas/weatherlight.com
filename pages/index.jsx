@@ -107,9 +107,9 @@ export default function Home() {
             <span className="opacity-50">
               {" "}
               Atölye, Chalmers University of Technology, Dükkan Productions,
-              Hyper Island, IT-Högskolan, KTH Royal Institute of Technology,
-              Maple Technologies, MidBrain, MindBehind, The Point Labs, Volvo
-              Cars
+              Griyer, Hyper Island, IT-Högskolan, KTH Royal Institute of
+              Technology, Maple Technologies, MidBrain, MindBehind, The Point
+              Labs, Volvo Cars
             </span>
           </p>
 
