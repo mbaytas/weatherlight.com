@@ -18,8 +18,7 @@ export default function Home() {
             </nobr>
           </p>
           <p className="opacity-50">
-            A platform to practice, promote, and contribute to
-            design.
+            Practicing, promoting, and contributing to design.
           </p>
         </div>
 
