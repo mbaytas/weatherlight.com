@@ -12,7 +12,7 @@ export default function Home() {
                 rel="noreferrer"
                 className="hover:opacity-50 transition-opacity underline"
               >
-                Dr. Mehmet Aydın Baytaş
+                dr. Mehmet Aydın Baytaş
               </a>
             </nobr>{" "}
             <span className="opacity-50">
