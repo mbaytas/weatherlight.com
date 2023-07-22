@@ -97,8 +97,8 @@ export default function Home() {
             Services:{" "}
             <span className="opacity-50">
               {" "}
-              brand design, product design and engineering, web design and
-              development, design leadership, design education
+              design leadership, design education, brand design, product design
+              and engineering, web design and development
             </span>
           </p>
 
