@@ -108,7 +108,8 @@ export default function Home() {
               {" "}
               Atölye, Chalmers University of Technology, Dükkan Productions,
               Hyper Island, IT-Högskolan, KTH Royal Institute of Technology,
-              MindBehind, The Point Labs, Volvo Cars
+              Maple Technologies, MidBrain, MindBehind, The Point Labs, Volvo
+              Cars
             </span>
           </p>
 
