@@ -26,14 +26,6 @@ export default function Home() {
 
         <div className="flex flex-col gap-8">
           <p>
-            Expertise:{" "}
-            <span className="opacity-50">
-              digital product design and engineering, digital brand and content,
-              design education
-            </span>
-          </p>
-
-          <p>
             Ventures:{" "}
             <a
               href="https://www.designdisciplin.com/"
@@ -94,12 +86,10 @@ export default function Home() {
           </p>
 
           <p>
-            Select clients and collaborators:{" "}
+            Expertise:{" "}
             <span className="opacity-50">
-              {" "}
-              Atölye, Chalmers University of Technology, Dükkan Productions,
-              Hyper Island, IT-Högskolan, KTH Royal Institute of Technology,
-              MindBehind, The Point Labs, Volvo Cars
+              digital product design and engineering, digital brand and content,
+              design education
             </span>
           </p>
 
@@ -107,7 +97,18 @@ export default function Home() {
             Services:{" "}
             <span className="opacity-50">
               {" "}
-              brand design, product design and engineering, web design and development, design leadership, design education
+              brand design, product design and engineering, web design and
+              development, design leadership, design education
+            </span>
+          </p>
+
+          <p>
+            Select clients and collaborators:{" "}
+            <span className="opacity-50">
+              {" "}
+              Atölye, Chalmers University of Technology, Dükkan Productions,
+              Hyper Island, IT-Högskolan, KTH Royal Institute of Technology,
+              MindBehind, The Point Labs, Volvo Cars
             </span>
           </p>
 
