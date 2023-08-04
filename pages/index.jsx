@@ -74,6 +74,15 @@ export default function Home() {
             </a>
             <span className="opacity-50">, </span>
             <a
+              href="https://intlcult.com/"
+              target="_blank"
+              rel="noreferrer"
+              className="opacity-50 hover:opacity-100 transition-opacity underline"
+            >
+              International Cult of Design
+            </a>
+            <span className="opacity-50">, </span>
+            <a
               href="https://www.vv.ventures/"
               target="_blank"
               rel="noreferrer"
