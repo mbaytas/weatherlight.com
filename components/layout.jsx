@@ -38,14 +38,37 @@ export default function Layout({ children }) {
           name="description"
           content="to not build the world is to destroy it"
         />
-        <link rel="icon" href="/favicon.ico" />
+        <link
+          rel="icon"
+          href="/favicon.ico"
+        />
 
-        <meta property="og:image" content="/card.png" key="ogimage" />
-        <meta property="og:title" content="WEATHERLIGHT" key="ogtitle" />
-        <meta property="og:site_name" content="WEATHERLIGHT" key="ogsitename" />
+        <meta
+          property="og:image"
+          content="/card.png"
+          key="ogimage"
+        />
+        <meta
+          property="og:title"
+          content="WEATHERLIGHT"
+          key="ogtitle"
+        />
+        <meta
+          property="og:site_name"
+          content="WEATHERLIGHT"
+          key="ogsitename"
+        />
 
-        <meta name="twitter:card" content="summary" key="twcard" />
-        <meta name="twitter:creator" content="@weatherlight_" key="twhandle" />
+        <meta
+          name="twitter:card"
+          content="summary"
+          key="twcard"
+        />
+        <meta
+          name="twitter:creator"
+          content="@weatherlight_"
+          key="twhandle"
+        />
       </Head>
 
       <motion.div
@@ -60,7 +83,7 @@ export default function Layout({ children }) {
         >
           <p className="opacity-50">
             WEATHERLIGHT <br />
-            c/o dr. M.A. Baytaş <br />
+            c/o Dr. M.A. Baytaş <br />
             41318 Göteborg
           </p>
         </motion.header>

@@ -4,7 +4,7 @@ export default function Home() {
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-24 w-full max-w-md lg:max-w-6xl mx-auto text-r3 font-medium">
         <div className="flex flex-col gap-8">
           <p className="">
-            WEATHERLIGHT is the design-focused venture studio of{" "}
+            WEATHERLIGHT is the business studio of{" "}
             <nobr>
               <a
                 href="https://www.baytas.net/"
@@ -12,19 +12,20 @@ export default function Home() {
                 rel="noreferrer"
                 className="hover:opacity-50 transition-opacity underline"
               >
-                dr. Mehmet Aydın Baytaş
+                Dr. M.A. Baytaş
               </a>
               .
             </nobr>
           </p>
           <p className="opacity-50">
-            Practicing, promoting, and contributing to design.
+            WEATHERLIGHT operates internationally and creates value through
+            expertise in design, engineering, science, and education.
           </p>
         </div>
 
         <div className="flex flex-col gap-8">
           <p>
-            Ventures:{" "}
+            Ventures <br />
             <a
               href="https://www.designdisciplin.com/"
               target="_blank"
@@ -33,19 +34,19 @@ export default function Home() {
             >
               Design Disciplin
             </a>
-            <span className="opacity-50">, </span>
+          </p>
+
+          <p>
+            Experiments <br />
             <a
               href="https://www.rektangle.design/"
               target="_blank"
               rel="noreferrer"
               className="opacity-50 hover:opacity-100 transition-opacity underline"
             >
-              Rektangle
+              Rektangle Design
             </a>
-          </p>
-
-          <p>
-            Experiments:{" "}
+            <span className="opacity-50">, </span>
             <a
               href="https://aidesignfiction.com/"
               target="_blank"
@@ -93,35 +94,54 @@ export default function Home() {
           </p>
 
           <p>
-            Expertise:{" "}
-            <span className="opacity-50">
-              digital product design and engineering, digital brand and content,
-              design education
-            </span>
+            Bespoke Services <br />
+            {[
+              "Design Leadership",
+              "Business Coaching",
+              "Visual Identity Design",
+              "Web Design and Development",
+              "Design and Technical Education",
+              "Product Design and Engineering",
+            ].map((item) => {
+              return (
+                <>
+                  <span className="opacity-50">{item}</span> <br />
+                </>
+              );
+            })}
           </p>
 
           <p>
-            Services:{" "}
-            <span className="opacity-50">
-              {" "}
-              design leadership, design education, brand design, product design
-              and engineering, web design and development
-            </span>
+            Select Clients and Collaborators <br />
+            {[
+              ["ATÖLYE", "Istanbul, TR"],
+              ["Chalmers University of Technology", "Gothenburg, SE"],
+              ["Coherent", "Brooklyn, NY"],
+              ["Dükkan Productions", "Istanbul, TR"],
+              ["Hyper Island", "Stockholm, SE and Karlskrona, SE"],
+              ["IT-Högskolan", "Gothenburg, SE"],
+              ["KTH Royal Institute of Technology", "Stockholm, SE"],
+              ["KWORKS", "Istanbul, TR"],
+              ["Maple Technologies", "Valbonne, FR"],
+              ["MidBrain", "Austin, TX"],
+              ["MindBehind", "Istanbul, TR"],
+              ["Studio Griyer", "Istanbul, TR"],
+              ["SXSW", "Austin, TR"],
+              ["The Point Labs", "Gothenburg, SE and Timisoara, RO"],
+              ["Volvo Cars", "Gothenburg, SE"],
+            ].map((item) => {
+              return (
+                <>
+                  <span className="opacity-50">{item[0]}</span>{" "}
+                  <span className="opacity-50 text-r1">({item[1]})</span>
+                  <br />
+                </>
+              );
+            })}
           </p>
 
           <p>
-            Select clients and collaborators:{" "}
-            <span className="opacity-50">
-              {" "}
-              Atölye, Chalmers University of Technology, Dükkan Productions,
-              Griyer, Hyper Island, IT-Högskolan, KTH Royal Institute of
-              Technology, Maple Technologies, MidBrain, MindBehind, The Point
-              Labs, Volvo Cars
-            </span>
-          </p>
-
-          <p>
-            Contact:{" "}
+            Contact <br />
             <span className="opacity-50">firstcontact@weatherlight.com</span>
           </p>
         </div>

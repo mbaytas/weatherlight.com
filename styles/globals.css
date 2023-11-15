@@ -13,7 +13,8 @@
         !leading-snug;
     }
     .text-r2 {
-        @apply text-base 
+        @apply font-display
+        text-base 
         lg:text-lg 
         !leading-tight;
     }
