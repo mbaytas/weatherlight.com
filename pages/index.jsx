@@ -3,7 +3,7 @@ export default function Home() {
     <>
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-24 w-full max-w-md lg:max-w-6xl mx-auto text-r3 font-medium">
         <div className="flex flex-col gap-8">
-          <p className="">
+          <p className="[text-wrap:balance;]">
             WEATHERLIGHT is the business studio of{" "}
             <nobr>
               <a
