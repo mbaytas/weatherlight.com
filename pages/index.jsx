@@ -14,13 +14,14 @@ export default function Home() {
               >
                 Dr. M.A. Baytaş
               </a>
-              .
-            </nobr>
-          </p>
-          <p className="opacity-50">
-            WEATHERLIGHT operates internationally and creates value through
+              ,
+            </nobr>{" "}
+            <span className="opacity-50">
+            operating internationally and creating value through
             expertise in design, engineering, science, and education.
+          </span>
           </p>
+          
         </div>
 
         <div className="flex flex-col gap-8">
@@ -126,7 +127,7 @@ export default function Home() {
               ["MidBrain", "Austin, TX"],
               ["MindBehind", "Istanbul, TR"],
               ["Studio Griyer", "Istanbul, TR"],
-              ["SXSW", "Austin, TR"],
+              ["SXSW", "Austin, TX"],
               ["The Point Labs", "Gothenburg, SE and Timisoara, RO"],
               ["Volvo Cars", "Gothenburg, SE"],
             ].map((item) => {
