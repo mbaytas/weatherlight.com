@@ -17,16 +17,24 @@ export default function Home() {
               ,
             </nobr>{" "}
             <span className="opacity-50">
-            operating internationally and creating value through
-            expertise in design, engineering, science, and education.
-          </span>
+              operating internationally and creating value through expertise in
+              design and engineering.
+            </span>
           </p>
-          
         </div>
 
         <div className="flex flex-col gap-8">
           <p>
             Ventures <br />
+            <a
+              href="https://www.baytas.net/"
+              target="_blank"
+              rel="noreferrer"
+              className="opacity-50 hover:opacity-100 transition-opacity underline"
+            >
+              Studio M.A. Baytaş
+            </a>
+            <br />
             <a
               href="https://www.designdisciplin.com/"
               target="_blank"
@@ -97,12 +105,12 @@ export default function Home() {
           <p>
             Bespoke Services <br />
             {[
+              "Product Design",
+              "Front-end Development",
+              "Web App Development",
+              "Design Engineering",
               "Design Leadership",
-              "Business Coaching",
-              "Visual Identity Design",
-              "Web Design and Development",
-              "Design and Technical Education",
-              "Product Design and Engineering",
+              "Startup Coaching",
             ].map((item) => {
               return (
                 <>
@@ -126,16 +134,18 @@ export default function Home() {
               ["Maple Technologies", "Valbonne, FR"],
               ["MidBrain", "Austin, TX"],
               ["MindBehind", "Istanbul, TR"],
+              ["MLA | Machine Learning in Athletics", "Rome, IT"],
               ["Studio Griyer", "Istanbul, TR"],
               ["SXSW", "Austin, TX"],
               ["The Point Labs", "Gothenburg, SE and Timisoara, RO"],
               ["Volvo Cars", "Gothenburg, SE"],
+              ["Vouch", "Austin, TX"],
             ].map((item) => {
               return (
                 <>
                   <span className="opacity-50">{item[0]}</span>{" "}
                   <span className="opacity-50 text-r1">({item[1]})</span>
-                  <br />
+                  <span className="opacity-50">,</span>{" "}
                 </>
               );
             })}
