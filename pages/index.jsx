@@ -132,6 +132,7 @@ export default function Home() {
               ["IT-Högskolan", "Gothenburg, SE"],
               ["KTH Royal Institute of Technology", "Stockholm, SE"],
               ["KWORKS", "Istanbul, TR"],
+              ["Kundo Design", "Buenos Aires, AR"],
               ["Maple Technologies", "Valbonne, FR"],
               ["MidBrain", "Austin, TX"],
               ["MindBehind", "Istanbul, TR"],
