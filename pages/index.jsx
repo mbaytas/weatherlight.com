@@ -127,6 +127,7 @@ export default function Home() {
               ["Chalmers University of Technology", "Gothenburg, SE"],
               ["Coherent", "Brooklyn, NY"],
               ["Dükkan Productions", "Istanbul, TR"],
+              ["Flora AI", "Brooklyn, NY"],
               ["Hyper Island", "Stockholm, SE and Karlskrona, SE"],
               ["IT-Högskolan", "Gothenburg, SE"],
               ["KTH Royal Institute of Technology", "Stockholm, SE"],
