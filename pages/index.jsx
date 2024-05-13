@@ -123,7 +123,7 @@ export default function Home() {
               ["Coherent", "Brooklyn, NY"],
               ["Dükkan Productions", "Istanbul, TR"],
               ["Flora AI", "Brooklyn, NY"],
-              ["Hyper Island", "Stockholm, SE and Karlskrona, SE"],
+              ["Hyper Island", "Stockholm, SE"],
               ["IT-Högskolan", "Gothenburg, SE"],
               ["KTH Royal Institute of Technology", "Stockholm, SE"],
               ["KWORKS", "Istanbul, TR"],
@@ -134,7 +134,7 @@ export default function Home() {
               ["MLA | Machine Learning in Athletics", "Rome, IT"],
               ["Studio Griyer", "Istanbul, TR"],
               ["SXSW", "Austin, TX"],
-              ["The Point Labs", "Gothenburg, SE and Timisoara, RO"],
+              ["The Point Labs", "Timisoara, RO"],
               ["Volvo Cars", "Gothenburg, SE"],
               ["Vouch", "Austin, TX"],
             ].map((item) => {
