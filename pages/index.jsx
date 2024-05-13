@@ -4,21 +4,19 @@ export default function Home() {
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-24 w-full max-w-md lg:max-w-6xl mx-auto text-r3 font-medium">
         <div className="flex flex-col gap-8">
           <p className="[text-wrap:balance;]">
-            WEATHERLIGHT is the business studio of{" "}
-            <nobr>
+            WEATHERLIGHT <br />{" "}
+            <span className="opacity-50">
+              Design and Engineering Company
+              <br />
+              c/o{" "}
               <a
                 href="https://www.baytas.net/"
                 target="_blank"
                 rel="noreferrer"
                 className="hover:opacity-50 transition-opacity underline"
               >
-                Dr. M.A. Baytaş
+                <nobr>Dr. M.A. Baytaş</nobr>
               </a>
-              ,
-            </nobr>{" "}
-            <span className="opacity-50">
-              operating internationally and creating value through expertise in
-              design and engineering.
             </span>
           </p>
         </div>
@@ -106,11 +104,8 @@ export default function Home() {
             Bespoke Services <br />
             {[
               "Product Design",
-              "Front-end Development",
-              "Web App Development",
-              "Design Engineering",
-              "Design Leadership",
-              "Startup Coaching",
+              "Creative Direction",
+              "Software Engineering",
             ].map((item) => {
               return (
                 <>
@@ -147,7 +142,7 @@ export default function Home() {
                 <>
                   <span className="opacity-50">{item[0]}</span>{" "}
                   <span className="opacity-50 text-r1">({item[1]})</span>
-                  <span className="opacity-50">,</span>{" "}
+                  <span className="opacity-50"></span> <br />
                 </>
               );
             })}
