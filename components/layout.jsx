@@ -102,9 +102,9 @@ export default function Layout({ children }) {
           <p className="opacity-50">
             © 2021–{new Date().getFullYear()} WEATHERLIGHT AB
             <br />
-            Registered in Sweden.
+            Registered in Sweden
             <br />
-            Independently owned and operated.
+            Independently owned and operated
           </p>
         </motion.footer>
       </motion.div>
