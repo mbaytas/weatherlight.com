@@ -41,6 +41,15 @@ export default function Home() {
             >
               Design Disciplin
             </a>
+            <br />
+            <a
+              href="https://www.colorai.app/"
+              target="_blank"
+              rel="noreferrer"
+              className="opacity-50 hover:opacity-100 transition-opacity underline"
+            >
+              Color AI
+            </a>
           </p>
 
           <p>
