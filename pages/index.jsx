@@ -128,6 +128,7 @@ export default function Home() {
             Select Clients and Collaborators <br />
             {[
               ["ATÖLYE", "Istanbul, TR"],
+              ["Attio", "London, UK"],
               ["Chalmers University of Technology", "Gothenburg, SE"],
               ["Coherent", "Brooklyn, NY"],
               ["Dükkan Productions", "Istanbul, TR"],
