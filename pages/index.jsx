@@ -39,7 +39,7 @@ export default function Home() {
               rel="noreferrer"
               className="opacity-50 hover:opacity-100 transition-opacity underline"
             >
-              Design Disciplin
+              Design Discipline
             </a>
             <br />
             <a
